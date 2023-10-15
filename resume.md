@@ -4,5 +4,5 @@ beatrizlunala@gmail.com
 
 Education:
 - Current Northeastern University student
-	- Computer Science & Design major
-	- 2027 expected graduation year
+	- Bachelor of Science in Computer Science & Design major
+	- Sept 2023 - May 2027
